@@ -14,8 +14,8 @@ My network performs well in both classification and regression tasks, which was 
 
 ## [SOM](https://github.com/malwina0/2023L-Computational_Intelligence_Methods/tree/main/SOM%20(Kohonen%20network) ) - Self Organizing Map (Kohonen network)
 The network is rectangular and allows to choose:
-* size of netowrk - M and N dimensions
-* neighborhood functions: gaussian or mexican hat
+* size of netowrk - M and N dimensions,
+* neighborhood functions: gaussian or mexican hat,
 * neighborhood width.
 
 The learning of the network is slowing down gradually with successive iterations.
